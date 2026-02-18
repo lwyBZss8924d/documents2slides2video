@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(parse:*)",
+      "Bash(workspace status)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "jina-mcp-tools",
+    "DeepWiki",
+    "firecrawl-mcp"
+  ]
+}
